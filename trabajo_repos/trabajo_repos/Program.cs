@@ -21,7 +21,6 @@ namespace trabajo_repos
 
             Console.ReadKey();
 
-
         }
     }
 }
